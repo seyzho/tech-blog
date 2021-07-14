@@ -1,7 +1,7 @@
 :root {
-  --primary: #b3cf98;
-  --secondary: #d5e5e9;
-  --tertiary: #d9e9be;
+  --primary: #ffffff;
+  --secondary: #54cbe9;
+  --tertiary: #eca3a3;
   --light-dark: #5c5b5b6e;
   --dark: #080806;
   --border-radius: .3rem;
@@ -13,7 +13,7 @@
   
   body {
   background-color: var(--primary);
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Sans-serif", "Serif";
   margin: 0;
   padding: 0;
   color: var(--dark);
@@ -112,13 +112,13 @@
   }
   
   .app-title {
+  margin-left: 41%;
   font-size: 2.0rem;
   background-color: var(--primary);
   color: var(--dark);
   padding: 0 25px 5px;
   border-radius: var(--border-radius);
   display: inline-block;
-  box-shadow: 6px 5px var(--light-dark);
   }
   
   .list-item {
@@ -170,7 +170,6 @@
   
   .nav{
   padding: 10px;
-  margin-right: 65%;
   display: flex;
   justify-content: space-between;
   }
