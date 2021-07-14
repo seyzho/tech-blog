@@ -3,6 +3,9 @@
   ## Description 
   a tech blog where you can blog about tech things, or other things i guess
 
+  ## Link to deployed app
+  https://classique-maison-84998.herokuapp.com/
+  
   ## Screenshots
   ![alt text](./screenshots/main.png)
   ![alt text](./screenshots/login.png)
